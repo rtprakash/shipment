@@ -1,0 +1,11 @@
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.AssemblyInfoInputs.cache
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.AssemblyInfo.cs
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.csproj.CoreCompileInputs.cache
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/bin/Debug/net10.0/Shipment.BusinessLayer.deps.json
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/bin/Debug/net10.0/Shipment.BusinessLayer.dll
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/bin/Debug/net10.0/Shipment.BusinessLayer.pdb
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.dll
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/refint/Shipment.BusinessLayer.dll
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/Shipment.BusinessLayer.pdb
+/Users/prakash/Documents/dotnet/projects/assessment/Shipment.BusinessLayer/obj/Debug/net10.0/ref/Shipment.BusinessLayer.dll

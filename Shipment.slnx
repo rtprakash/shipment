@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Shipment.BusinessLayer/Shipment.BusinessLayer.csproj" />
+  <Project Path="Shipment.WebApi/Shipment.WebApi.csproj" />
+</Solution>

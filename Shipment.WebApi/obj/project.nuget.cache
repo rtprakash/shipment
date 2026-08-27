@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9CegXSPVY0=",
+  "success": true,
+  "projectFilePath": "/Users/prakash/Documents/dotnet/projects/assessment/Shipment.WebApi/Shipment.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/prakash/.nuget/packages/microsoft.aspnetcore.openapi/10.0.11/microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "/Users/prakash/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
